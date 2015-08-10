@@ -1,7 +1,0 @@
-D:\workspace\DotNET\KeepTestingNu\bin\Debug\KeepTestingNu.dll
-D:\workspace\DotNET\KeepTestingNu\bin\Debug\KeepTestingNu.pdb
-D:\workspace\DotNET\KeepTestingNu\bin\Debug\nunit.framework.dll
-D:\workspace\DotNET\KeepTestingNu\bin\Debug\nunit.framework.xml
-D:\workspace\DotNET\KeepTestingNu\obj\Debug\KeepTestingNu.csprojResolveAssemblyReference.cache
-D:\workspace\DotNET\KeepTestingNu\obj\Debug\KeepTestingNu.dll
-D:\workspace\DotNET\KeepTestingNu\obj\Debug\KeepTestingNu.pdb
