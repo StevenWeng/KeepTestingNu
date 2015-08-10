@@ -8,7 +8,7 @@ public class TestFixture1
 	[Test]
 	public void TestTrue()
 	{
-		Assert.IsTrue(false);
+		Assert.IsTrue(true);
 	}
 
 	// This test fail for example, replace result or delete this test to see all tests pass
